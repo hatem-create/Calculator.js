@@ -89,11 +89,13 @@ Theme switching is implemented with a single class toggle and CSS custom propert
 ```
 Calculator.js
 │
-├── index.html
-├── style.css
-├── script.js
+files
+  ├── index.html
+  ├── pattern.jpeg
+  ├── script.js
+  └── style.css
+├── light mode.png
 ├── preview.png
-└── pattern.jpeg
 ```
 
 ### JavaScript Structure
